@@ -18,7 +18,7 @@ search_tweets_api:<br>
   consumer_secret: efgh <br>
   
  ## Installing packages
- Install the packages pandas and search-tweets 
+ Install the packages *pandas* and *searchtweets* 
  
  ## Run the code
  After you run the code, the data will be in twitter_data.tsv. Note that the code might take some time to run
