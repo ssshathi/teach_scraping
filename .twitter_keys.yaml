@@ -1,0 +1,5 @@
+search_tweets_api:
+  account_type: premium
+  endpoint: https://api.twitter.com/1.1/tweets/search/fullarchive/<THE NAME OF YOUR PREMIUM DEV ENVIRONMENT>.json
+  consumer_key: <YOUR PREMIUM APPS CONSUMER KEY>
+  consumer_secret: <YOUR PREMIUM APPS CONSUMER SECRET>
