@@ -8,7 +8,7 @@ Repository to teach how to scrape Twitter using the premium search API
 
 ## Setting up credentials
 Modify the .twitter_keys.yaml file to contain your consumer key, consumer key secret, and desired endpoint
-For example if your consumer key is *abcd*, your consumer secret is *efgh*, and the name of your dev environemnt is *dev_name*
+For example if your consumer key is **abcd**, your consumer secret is **efgh**, and the name of your dev environemnt is **dev_name**
 your .yaml file will look like:
 
 search_tweets_api:
